@@ -1,4 +1,8 @@
-# React + TypeScript + Vite
+# Black-Caiman - AWS Security Platform
+<img width="1904" height="991" alt="black-caiman-dashboard" src="https://github.com/user-attachments/assets/5233af65-19cf-49e8-93e0-d27e02222151" />
+
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
